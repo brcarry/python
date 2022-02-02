@@ -25,5 +25,6 @@ print(
     "\t" + format("Pennies:","<10") + str(pennies)
     )
 
-#第一个字符串中%.2f涉及字符串的格式化输出，可以参考
+#第一个字符串中%.2f涉及字符串的格式化输出
+#但是看slide之后发现，好像只讲了format函数qwq，其他格式化输出的方式可以参考
 #https://www.cnblogs.com/qinchao0317/p/10699717.html
