@@ -14,4 +14,4 @@ p.s. pass是python中的关键字，和if，for， False...等一样，作用为
 
 
 
-![image-20220212224016771](C:\Users\11523\Desktop\python\assignment3\img1.png)
+![image-20220212224016771](.\img1.png)
